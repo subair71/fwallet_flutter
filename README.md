@@ -52,7 +52,7 @@ Prerequisites
 Install Flutter and ensure it's set up correctly.
 Install Node.js (for running the backend locally if needed).
 Backend Setup
-Clone the Node.js backend repository:
+Clone the Node.js backend repository: https://github.com/subair71/fwallet.git
 bash
 git clone 
 cd backend
